@@ -1,25 +1,4 @@
-# 🚀 Spec-Kit: Antigravity Skills & Workflows
-
-> **The Event Horizon of Software Quality.**
-> *Adapted for Google Antigravity IDE from [github/spec-kit](https://github.com/github/spec-kit).*
-> *Version: 1.1.0*
-
----
-
-## 🌟 Overview
-
-Welcome to the **Antigravity Edition** of Spec-Kit. This system is architected to empower your AI pair programmer (Antigravity) to drive the entire Software Development Life Cycle (SDLC) using two powerful mechanisms: **Workflows** and **Skills**.
-
-### 🔄 Dual-Mode Intelligence
-In this edition, Spec-Kit commands have been split into two interactive layers:
-
-1.  **Workflows (`/command`)**: High-level orchestrations that guide the agent through a series of logical steps. **The easiest way to run a skill is by typing its corresponding workflow command.**
-2.  **Skills (`@speckit.name`)**: Packaged agentic capabilities. Mentions of a skill give the agent immediate context and autonomous "know-how" to execute the specific toolset associated with that phase.
-
-> **To understand the power of Skills in Antigravity, read the docs here:**
-> [https://antigravity.google/docs/skills](https://antigravity.google/docs/skills)
-
----
+# NETFLIX_LAB
 
 ## 🛠️ Installation
 
